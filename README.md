@@ -1,7 +1,8 @@
 # 🌟 Loyalty Tokens Smart Contract (Soroban / Stellar)
 
 ## 📌 Project Description
-<img width="1892" height="1018" alt="image" src="https://github.com/user-attachments/assets/8e83739e-ee17-4a71-aa7e-0d91ca2dee07" />
+<img width="1917" height="1033" alt="Screenshot 2026-04-10 151309" src="https://github.com/user-attachments/assets/e7de6677-8f7e-4354-b458-f6f6bb6f0b74" />
+
 https://stellar.expert/explorer/testnet/contract/CDPLYQP7QTYGYVQLEA7RQYY3GVAI423QG5PZP7DVUZVPVCLPGQORJ2XU
 
 This project implements a **Loyalty Rewards System** using **Soroban**, the smart contract platform on the Stellar network. It enables businesses or applications to reward users with loyalty points that can be accumulated and redeemed over time.
